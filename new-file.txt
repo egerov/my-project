@@ -1,1 +1,3 @@
 New file text
+
+New file was modified
