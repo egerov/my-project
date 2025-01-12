@@ -1,3 +1,5 @@
 New file text
 
 New file was modified
+
+second modification of new-file
